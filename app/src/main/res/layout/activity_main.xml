@@ -8,7 +8,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:padding="16dp"
-    android:background="#F0F4C3"
+    android:background="#82EEFD"
     tools:context=".MainActivity">
 
     <!-- This TextView will display the quiz question. -->
@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:text="Option 1"
-        android:backgroundTint="#FFB74D"
+        android:backgroundTint="#FC94AF"
         android:textColor="#FFFFFF"
         android:padding="16dp" />
 
@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:text="Option 2"
-        android:backgroundTint="#FFB74D"
+        android:backgroundTint="#FC94AF"
         android:textColor="#FFFFFF"
         android:padding="16dp" />
 
@@ -51,7 +51,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:text="Option 3"
-        android:backgroundTint="#FFB74D"
+        android:backgroundTint="#FC94AF"
         android:textColor="#FFFFFF"
         android:padding="16dp" />
 
