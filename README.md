@@ -21,3 +21,5 @@ This app demonstrates fundamental Android concepts like Activities, UI handling,
 
 ---
 
+## Release
+- Check out the app in Releases section.
